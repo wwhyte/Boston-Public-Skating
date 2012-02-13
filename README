@@ -1,0 +1,9 @@
+This is intended to be a Google Maps mashup with public skating hours for rinks inside 128, with an initial bias towards Belmont / Cambridge / Arlington etc.
+
+But it won't be that for a while.
+
+First step: get the information. There isn't a standard way that this
+information is published, so it will be necessary to scrape it from various
+sites and manually assemble it.
+
+Second: put it together in a Google Maps setting.
